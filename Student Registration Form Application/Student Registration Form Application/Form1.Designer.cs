@@ -1,4 +1,4 @@
-﻿namespace Student_Registration_Form_Application
+namespace Student_Registration_Form_Application
 {
     partial class frmStudentRegistration
     {
@@ -45,6 +45,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.comboProgram = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // txtLname
@@ -148,6 +150,7 @@
             this.btnRegister.TabIndex = 9;
             this.btnRegister.Text = "Register Student";
             this.btnRegister.UseVisualStyleBackColor = false;
+            this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
             // 
             // label1
             // 
@@ -205,13 +208,38 @@
             this.label5.TabIndex = 14;
             this.label5.Text = "DATE OF BIRTH:";
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.Transparent;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(43, 320);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(96, 20);
+            this.label6.TabIndex = 15;
+            this.label6.Text = "PROGRAM:";
+            // 
+            // comboProgram
+            // 
+            this.comboProgram.BackColor = System.Drawing.Color.SteelBlue;
+            this.comboProgram.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboProgram.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboProgram.FormattingEnabled = true;
+            this.comboProgram.Location = new System.Drawing.Point(148, 317);
+            this.comboProgram.Name = "comboProgram";
+            this.comboProgram.Size = new System.Drawing.Size(341, 28);
+            this.comboProgram.TabIndex = 16;
+            this.comboProgram.Tag = "Program";
+            // 
             // frmStudentRegistration
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(483, 589);
+            this.ClientSize = new System.Drawing.Size(536, 589);
+            this.Controls.Add(this.comboProgram);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -252,6 +280,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+
+        // NEW fields
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.ComboBox comboProgram;
     }
 }
-
