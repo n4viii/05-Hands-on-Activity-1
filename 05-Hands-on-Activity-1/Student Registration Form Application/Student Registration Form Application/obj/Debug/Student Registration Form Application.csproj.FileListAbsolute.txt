@@ -1,0 +1,11 @@
+H:\Student Registration Form Application\Student Registration Form Application\obj\Debug\Student Registration Form Application.csproj.AssemblyReference.cache
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\bin\Debug\Student Registration Form Application.exe.config
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\bin\Debug\Student Registration Form Application.exe
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\bin\Debug\Student Registration Form Application.pdb
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\obj\Debug\Student Registration Form Application.csproj.AssemblyReference.cache
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\obj\Debug\Student_Registration_Form_Application.frmStudentRegistration.resources
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\obj\Debug\Student_Registration_Form_Application.Properties.Resources.resources
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\obj\Debug\Student Registration Form Application.csproj.GenerateResource.cache
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\obj\Debug\Student Registration Form Application.csproj.CoreCompileInputs.cache
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\obj\Debug\Student Registration Form Application.exe
+C:\Users\caparros.428518\Source\Repos\05-Hands-on-Activity-1\Student Registration Form Application\Student Registration Form Application\obj\Debug\Student Registration Form Application.pdb
